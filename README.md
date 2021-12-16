@@ -1,4 +1,4 @@
-# ChartMorgul's Assessment
+# ChartMogul's Assessment
 In this assessment, all customers from Stripe had to be fetched from their API and written to a CSV file.
 
 ## Execution
